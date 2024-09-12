@@ -7,7 +7,7 @@ def main():
     root = Tk()
     root.title("Inicio")
     root.resizable(0,0)
-    ancho_ventana = 400
+    ancho_ventana = 800
     alto_ventana = 500
     x_ventana = root.winfo_screenwidth() // 2 - ancho_ventana // 2
     y_ventana = root.winfo_screenheight() // 2 - alto_ventana // 2
